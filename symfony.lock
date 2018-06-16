@@ -11,6 +11,24 @@
     "psr/simple-cache": {
         "version": "1.0.1"
     },
+    "sabre/dav": {
+        "version": "3.2.2"
+    },
+    "sabre/event": {
+        "version": "3.0.0"
+    },
+    "sabre/http": {
+        "version": "v4.2.4"
+    },
+    "sabre/uri": {
+        "version": "1.2.1"
+    },
+    "sabre/vobject": {
+        "version": "4.1.6"
+    },
+    "sabre/xml": {
+        "version": "1.5.0"
+    },
     "symfony/cache": {
         "version": "v4.1.0"
     },
